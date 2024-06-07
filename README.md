@@ -29,3 +29,19 @@ The average of the four scores is taken and stored in the variable ***scoreIELTS
 The entered points are rounded according to the specified intervals.
 
 ![rounding](/images/image3.png)
+
+4. Outputting the appropriate message to the user based on the input values:
+
+a using the ***switch statement***, a corresponding message is output to the user.
+
+![switch](/images/image4.png)
+
+5. To request reuse of the program:
+
+Asks the user if they want to run the program ***again***, and depending on the response, ***continues or stops*** the cycle.
+
+![again program](/images/image5.png)
+
+6. Result: 
+
+![result](/images/image6.png)
